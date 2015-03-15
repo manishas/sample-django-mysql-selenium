@@ -6,6 +6,8 @@ addons:
   firefox: "28.0"
 services:
   - selenium
+  
+sudo: false
 
 env:
   global:
